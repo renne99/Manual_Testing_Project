@@ -1,1 +1,1 @@
-# Manual_Testing_Project - User Registration(E-Commerce Website)
+# Manual_Testing_Project - E-Commerce Website
